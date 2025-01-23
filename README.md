@@ -1,8 +1,8 @@
 # Data-Analysis-and-Visualization-Projects
 Note: All data and numeric values have been either manipulated or hidden to maintain confidentiality.
 
-## 1. Label Quality Assurance: Tool for Label Defect Analysis from Multiple Label Suppliers
-This project focuses on analyzing label defects across various suppliers to ensure quality standards. The tool was developed during working student role at Bosch.
+## 1. Label Quality Assurance: Tool for Label Defect Analysis for Multiple Label Suppliers
+This project focuses on analyzing label defects across various suppliers to ensure quality standards. The tool was developed during working student role at Bosch. Tis involved analyzing recurring defects from label suppliers by considering various attributes across multiple objects. For example, the object type "RoadBoundary" may have several attributes such as Type, Roadside, Color, Lane Position, and others.
 
 ##### Defect Analysis Dashboard
 Dashboard showcasing defect trends over time.
