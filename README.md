@@ -30,8 +30,8 @@ Conducted an in-depth analysis of ADAS sensor data to support autonomous driving
 Pipeline overview for processing and analyzing sensor data.
 ![Overall Pipeline](ADAS_Sensor_Data_Analysis1.png)
 
-##### Automated PDF Report Generation Based on User Input
-Automated PDF reports generated based on user-provided inputs.
+##### PDF Report Generation
+Automated PDF reports generated for the analysis performed on user-selected sensors.
 ![Automated PDF Report Generation Based on User Input](ADAS_Sensor_Data_Analysis2.png)
 
 ## 4. MATLAB Tool for Visualization of Driving Profiles
